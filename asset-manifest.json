@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MoneyCat-React-Website/static/css/main.378de560.chunk.css",
+    "main.js": "/MoneyCat-React-Website/static/js/main.e8c20920.chunk.js",
+    "main.js.map": "/MoneyCat-React-Website/static/js/main.e8c20920.chunk.js.map",
+    "runtime-main.js": "/MoneyCat-React-Website/static/js/runtime-main.9672f86c.js",
+    "runtime-main.js.map": "/MoneyCat-React-Website/static/js/runtime-main.9672f86c.js.map",
+    "static/js/2.af4007da.chunk.js": "/MoneyCat-React-Website/static/js/2.af4007da.chunk.js",
+    "static/js/2.af4007da.chunk.js.map": "/MoneyCat-React-Website/static/js/2.af4007da.chunk.js.map",
+    "index.html": "/MoneyCat-React-Website/index.html",
+    "precache-manifest.7c9fac44c42ced199c56d2b309662cd9.js": "/MoneyCat-React-Website/precache-manifest.7c9fac44c42ced199c56d2b309662cd9.js",
+    "service-worker.js": "/MoneyCat-React-Website/service-worker.js",
+    "static/css/main.378de560.chunk.css.map": "/MoneyCat-React-Website/static/css/main.378de560.chunk.css.map",
+    "static/js/2.af4007da.chunk.js.LICENSE.txt": "/MoneyCat-React-Website/static/js/2.af4007da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9672f86c.js",
+    "static/js/2.af4007da.chunk.js",
+    "static/css/main.378de560.chunk.css",
+    "static/js/main.e8c20920.chunk.js"
+  ]
+}
